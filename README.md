@@ -1,6 +1,6 @@
 <!-- Your title -->
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Priya Sharma, a Programmer and Developer 🚀 from INDIA!
-<h2 align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif"></h2>
+<h2 align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif" width="500"></h2>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
