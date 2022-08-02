@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
 
-[![GitHub KC-Dexter](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/KC-Dexter)
+[![GitHub PRIYA1639](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/PRIYA1639)
 ![](https://komarev.com/ghpvc/?username=KC-Dexter&color=blueviolet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-chauhan-1549821a1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white)](https://www.instagram.com/__31_chauhan_03__/)
@@ -61,15 +61,15 @@ Here are some ideas to get you started:
 
 <h2 align="center">GitHub Analytics &nbsp;</h2>
 <p align="center">
-<a href="https://github.com/KC-Dexter">
+<a href="https://github.com/PRIYA1639">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KC-Dexter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KC-Dexter&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRIYA1639&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KC-Dexter&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYA1639&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=KC-Dexter&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=PRIYA1639&theme=redical">
 </p> 
