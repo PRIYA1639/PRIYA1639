@@ -9,10 +9,10 @@ You can use the website to generate badges: https://shields.io/
 
 [![GitHub PRIYA1639](https://img.shields.io/github/followers/PRIYA1639?label=follow&style=social)](https://github.com/PRIYA1639)
 ![](https://komarev.com/ghpvc/?username=PRIYA1639&color=blueviolet)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-chauhan-1549821a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white)](https://www.instagram.com/__31_chauhan_03__/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](mailto:kartavyachauhan2019@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-round&logo=LeetCode&logoColor=black)](https://leetcode.com/KC-Dexter007/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-sharma-866758204/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white)](https://www.instagram.com/__18_crystalangel_09__/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](mailto:Sharmapri207@gmail.com)
+
 
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
